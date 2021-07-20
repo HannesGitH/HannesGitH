@@ -4,6 +4,8 @@
 - 💻👩‍🔬 currently studying computer science
 - 🦥 i don't think you will find anything super interesting here yet tho ^^
 
+### more information about me [here](https://hannesgith.github.io/)
+
 <!--
 **HannesGitH/HannesGitH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
