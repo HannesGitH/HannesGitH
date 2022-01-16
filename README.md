@@ -6,6 +6,8 @@
 
 ### more information about me [here](https://hannesgith.github.io/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannesGitH)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **HannesGitH/HannesGitH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
