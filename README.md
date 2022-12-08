@@ -9,7 +9,10 @@
 
 ### more information about me [here](https://hannesgith.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannesGitH&langs_count=10)](https://github.com/HannesGitH/HannesGitH/)
+[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=HannesGitH&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/HannesGitH/HannesGitH#gh-dark-mode-only)
+[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=HannesGitH&langs_count=10&theme=default#gh-dark-mode-only)](https://github.com/HannesGitH/HannesGitH#gh-light-mode-only)
+
+<sub>⬆️ please keep in mind some stuff isn't shown here since i organized them into different organizations (mostly dart in [mastbau](https://github.com/orgs/Mastbau-FN/) and rust in [espoxi](https://github.com/orgs/espoxi/)) </sub>
 
 <!--
 **HannesGitH/HannesGitH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
