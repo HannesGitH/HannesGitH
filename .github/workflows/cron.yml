@@ -2,6 +2,9 @@ on:
   schedule:
     # 0 minutes 0 hour every every 0=SUNday 
     - cron:  '0 0 * * 0'
+  push: 
+    branches:
+      - main
     
 jobs:
   gen-contrib-snk:
