@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 ### I am Hannes (duh)
-- 💻👩‍🔬 currently studying computer science
+- 💻👩‍🔬 recently got my CS master and am now primarily working as a flutter/ frontend dev 
 - 🦥 i don't think you will find anything super interesting here yet tho ^^
 
 ### more information about me [here](https://hannesgith.github.io/)
