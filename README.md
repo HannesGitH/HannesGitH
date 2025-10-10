@@ -4,10 +4,12 @@
 ### Hi there 👋
 
 ### I am Hannes (duh)
-- 💻👩‍🔬 recently got my CS master and am now primarily working as a flutter/ frontend dev 
+- 💻👩‍🔬 I got my CS master back in 2023 and been working as a software engineer since then.
+   - currently as a FE engenier for berlin based startup bling.de
+   - for more details check my [CV](https://cv.h-h.win/)
 - 🦥 i don't think you will find anything super interesting here yet tho ^^
 
-### more information about me [here](https://hannesgith.github.io/)
+### more information about me [here](https://cv.h-h.win/)
 
 ![svg](https://raw.githubusercontent.com/HannesGitH/HannesGitH/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
 ![svg](https://raw.githubusercontent.com/HannesGitH/HannesGitH/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
